@@ -51,3 +51,5 @@ GPX tracks are saved as:
 - GPS module (e.g., GPS V1.1 AT6668 + MAX2659), UART connected to GPIO 1 (RX) and 2 (TX)
 - microSD card (FAT32)
 
+✅ No need to flash via USB if using launcher.
+
