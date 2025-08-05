@@ -53,5 +53,5 @@ GPX tracks are saved as:
 
 ✅ No need to flash via USB if using launcher.
 
-(/images/gps_2.jpg)
+![GPS](/images/gps_2.jpg)
 
